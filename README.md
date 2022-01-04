@@ -6,7 +6,7 @@ Demo de una aplicación en Spring Boot que toma 6 entidades de la aplicación pa
 Datos sobre esta aplicación pueden encontrarse en las siguientes diapositivas:  
   
 https://slideplayer.es/slide/11858797/66/images/20/Aplicaciones+web+para+la+empresa.jpg  
-https://slideplayer.es/slide/11858797/66/images/21/Aplicaciones+web+para+la+empresa.jpg
+https://slideplayer.es/slide/11858797/66/images/21/Aplicaciones+web+para+la+empresa.jpg  
 https://slideplayer.es/slide/11858797/66/images/22/Aplicaciones+web+para+la+empresa.jpg  
 https://slideplayer.es/slide/11858797/66/images/23/Aplicaciones+web+para+la+empresa.jpg  
 https://slideplayer.es/slide/11858797/66/images/24/Aplicaciones+web+para+la+empresa.jpg  
