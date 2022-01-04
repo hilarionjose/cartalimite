@@ -4,8 +4,10 @@ Demo en Spring Boot de la aplicación de control de Cartas Límites de Materiale
 Demo de una aplicación en Spring Boot que toma 6 entidades de la aplicación para gestionar Cartas Límites de materiales de la construcción, que se encuentra en explotación desde 2007 en una empresa local.  
   
 Datos sobre esta aplicación pueden encontrarse en las siguientes diapositivas:  
-https://slideplayer.es/slide/11858797/66/images/20/Aplicaciones+web+para+la+empresa.jpg  
-https://slideplayer.es/slide/11858797/66/images/21/Aplicaciones+web+para+la+empresa.jpg  
+<a href="https://slideplayer.es/slide/11858797/66/images/20/Aplicaciones+web+para+la+empresa.jpg" target="_blank">https://slideplayer.es/slide/11858797/66/images/20/Aplicaciones+web+para+la+empresa.jpg</a>  
+<a href="https://slideplayer.es/slide/11858797/66/images/21/Aplicaciones+web+para+la+empresa.jpg" target="_blank">https://slideplayer.es/slide/11858797/66/images/21/Aplicaciones+web+para+la+empresa.jpg</a>  
+  
+  
 https://slideplayer.es/slide/11858797/66/images/22/Aplicaciones+web+para+la+empresa.jpg  
 https://slideplayer.es/slide/11858797/66/images/23/Aplicaciones+web+para+la+empresa.jpg  
 https://slideplayer.es/slide/11858797/66/images/24/Aplicaciones+web+para+la+empresa.jpg  
