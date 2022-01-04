@@ -1,0 +1,13 @@
+package com.josehilarion.cartalimite;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class CartalimiteApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(CartalimiteApplication.class, args);
+	}
+
+}
