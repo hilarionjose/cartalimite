@@ -15,6 +15,7 @@ public class CartalimiteApplication {
 		SpringApplication.run(CartalimiteApplication.class, args);
 	}
 
+	//esto es temporal para probar q la app funcione ok
 	@GetMapping
 	public List<String> hello() {
 		return List.of("Hello", "World");
